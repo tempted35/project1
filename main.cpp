@@ -13,3 +13,6 @@ int main(int argc, char *argv[])
   
 void test(int a)
 {}
+
+void test1(int a)
+{}
